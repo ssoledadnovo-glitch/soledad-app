@@ -1,0 +1,9 @@
+{
+  "name": "Mi Organización",
+  "short_name": "Soledad",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#C4622D",
+  "icons": []
+}
